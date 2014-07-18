@@ -12,5 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'spring', group: :development
 
+gem 'foundation-icons-sass-rails'
+
 gem 'jasmine-rails', groups: [:development, :test]
 gem 'foundation-rails'
